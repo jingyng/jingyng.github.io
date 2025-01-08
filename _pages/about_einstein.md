@@ -1,5 +1,8 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I completed my Bachelor’s degree in Information and Computing Science at the Hubei University of Technology in China, followed by a Master’s degree in Computer Science at Hunan University, China. My Master’s dissertation is related to identifying 3D printed objects and printers with Digital Forensics and Machine Learning. After obtaining my Master’s degree in 2019, I pursued a PhD at the RECOD.ai lab from the University of Campinas in Brazil, under the supervision of Prof. [Anderson Rocha](https://www.ic.unicamp.br/~rocha/). During 2022-2023, I did a research internship at the [Ubiquitous Knowledge Processing (UKP) lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) in TU Darmstadt. My PhD thesis is related to improving fact-checking efficiency and explainability with few-shot learning and large language models. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am currently working as a post-doc researcher at the XplaiNLP group in TU Berlin, focusing on topics related to generating natural language explanations for AI-based disinformation detection. Specifically, my research interests are:
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+- Natural language explanation generation
+- Large language model tuning/prompting
+- Synthetic text evaluation
+- Human preference study on text generation
