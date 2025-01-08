@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>. XplaiNLP, Quality and Usability Lab at TU Berlin. Contacts. Motto. Etc.
 
 profile:
   align: right
