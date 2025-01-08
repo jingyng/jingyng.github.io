@@ -29,7 +29,7 @@
       "startDate": "2024-11-05",
       "endDate": "2027-10-31",
       "summary": "working as a post-doc researcher at TU Berlin, focusing on topics related to generating natural language languages for AI-based disinformation detection.",
-      "highlights": ["Relativity"]
+      "highlights": ["Natural Language Processing", "Explainable AI", "Fact-checking"]
     }
   ],
   "education": [
@@ -37,11 +37,11 @@
       "institution": "University of Campinas, Campinas, Brazil",
       "location": "Campinas, Brazil",
       "url": "https://ic.unicamp.br/",
-      "area": "Natural Language Processing",
+      "area": "Computer Science",
       "studyType": "PhD",
       "startDate": "2019-08-01",
       "endDate": "2024-11-25",
-      "courses": ["Computer Science"]
+      "courses": ["Machine Learning", "Natural Language Processing", "Parallel Computing", "Computer Vision", "Reinfocement Learning"]
     },
     {
       "institution": "Hunan University, Changsha, China",
@@ -51,7 +51,7 @@
       "studyType": "Master",
       "startDate": "2016-09-01",
       "endDate": "2019-06-30",
-      "courses": ["Computer Science"]
+      "courses": ["Digital Forensics", "Information Security", "Image Processing"]
     },
     {
       "institution": "Hubei University of Technology, Wuhan, China",
@@ -61,7 +61,7 @@
       "studyType": "Bachelor",
       "startDate": "2012-09-01",
       "endDate": "2016-06-30",
-      "courses": ["Mathematics", "Computer Science", "Stastics"]   
+      "courses": ["Mathematics", "Computer Science", "Statistics"]   
     }
   ],
   "awards": [
