@@ -42,6 +42,26 @@
       "startDate": "2019-08-01",
       "endDate": "2024-11-25",
       "courses": ["Computer Science"]
+    },
+    {
+      "institution": "Hunan University, Changsha, China",
+      "location": "Changsha, China",
+      "url": "https://www-en.hnu.edu.cn/",
+      "area": "Computer Science",
+      "studyType": "Master",
+      "startDate": "2016-09-01",
+      "endDate": "2019-06-30",
+      "courses": ["Computer Science"]
+    },
+    {
+      "institution": "Hubei University of Technology, Wuhan, China",
+      "location": "Wuhan, China",
+      "url": "https://en.hbut.edu.cn/",
+      "area": "Information and Computing Science",
+      "studyType": "Bachelor",
+      "startDate": "2012-09-01",
+      "endDate": "2016-06-30",
+      "courses": ["Mathematics", "Computer Science", "Stastics"]   
     }
   ],
   "awards": [
