@@ -2,9 +2,12 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
-No teaching for the current semester. Looking forward to having new courses to teach.
+### Summer Semester 2025
+2025-04 – 2025-09 : Advanced Course Projects @ TU Berlin. Topic: Personalized Explanation Generation and Evaluation using LLMs (with Nils Feldhus).
+
+2025-04 – 2025-09 : Usability Engineering @ TU Berlin. Project: Evaluating Post-hoc Explanations via User Study (with Qianli Wang).
