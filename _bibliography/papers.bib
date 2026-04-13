@@ -116,3 +116,74 @@
   code={https://github.com/UKPLab/tacl2025-ood-eval-self-rationalization}
 }
 
+@inproceedings{yang-etal-2026-persona,
+  title = {Persona Prompting as a Lens on {LLM} Social Reasoning},
+  author = {Yang, Jing and Hechtbauer, Moritz and Khalilov, Elisabeth and Brinkmann, Evelyn Luise and Schmitt, Vera and Feldhus, Nils},
+  editor = {Demberg, Vera and Inui, Kentaro and Marquez, Llu{\'i}s},
+  booktitle = {Proceedings of the 19th Conference of the {E}uropean Chapter of the {A}ssociation for {C}omputational {L}inguistics (Volume 1: Long Papers)},
+  month = mar,
+  year = {2026},
+  address = {Rabat, Morocco},
+  publisher = {Association for Computational Linguistics},
+  url = {https://aclanthology.org/2026.eacl-long.52/},
+  doi = {10.18653/v1/2026.eacl-long.52},
+  pages = {1152--1170},
+  abstract = {For socially sensitive tasks like hate speech detection, the quality of explanations from Large Language Models (LLMs) is crucial for factors like user trust and model alignment. While Persona prompting (PP) is increasingly used as a way to steer model towards user-specific generation, its effect on model rationales remains underexplored. We investigate how LLM-generated rationales vary when conditioned on different simulated demographic personas. Using datasets annotated with word-level rationales, we measure agreement with human annotations from different demographic groups, and assess the impact of PP on model bias and human alignment. Our evaluation across three LLMs results reveals three key findings: (1) PP improving classification on the most subjective task (hate speech) but degrading rationale quality. (2) Simulated personas fail to align with their real-world demographic counterparts, and high inter-persona agreement shows models are resistant to significant steering. (3) Models exhibit consistent demographic biases and a strong tendency to over-flag content as harmful, regardless of PP. Our findings reveal a critical trade-off: while PP can improve classification in socially-sensitive tasks, it often comes at the cost of rationale quality and fails to mitigate underlying biases, urging caution in its application.},
+  abbr = {EACL},
+  bibtex_show = {true},
+  selected = {true},
+  html = {https://aclanthology.org/2026.eacl-long.52/}
+}
+
+@inproceedings{upravitelev-etal-2025-exploring,
+  title = {Exploring Semantic Filtering Heuristics For Efficient Claim Verification},
+  author = {Upravitelev, Max and Sahitaj, Premtim and Hilbert, Arthur and Solopova, Veronika and Yang, Jing and Feldhus, Nils and Anikina, Tatiana and Ostermann, Simon and Schmitt, Vera},
+  editor = {Akhtar, Mubashara and Aly, Rami and Christodoulopoulos, Christos and Cocarascu, Oana and Guo, Zhijiang and Mittal, Arpit and Schlichtkrull, Michael and Thorne, James and Vlachos, Andreas},
+  booktitle = {Proceedings of the Eighth Fact Extraction and {VER}ification Workshop ({FEVER})},
+  month = jul,
+  year = {2025},
+  address = {Vienna, Austria},
+  publisher = {Association for Computational Linguistics},
+  url = {https://aclanthology.org/2025.fever-1.17/},
+  doi = {10.18653/v1/2025.fever-1.17},
+  pages = {229--237},
+  abstract = {Given the limited computational and financial resources of news agencies, real-life usage of fact-checking systems requires fast response times. For this reason, our submission to the FEVER-8 claim verification shared task focuses on optimizing the efficiency of such pipelines built around subtasks such as evidence retrieval and veracity prediction. We propose the Semantic Filtering for Efficient Fact Checking (SFEFC) strategy, which is inspired by the FEVER-8 baseline and designed with the goal of reducing the number of LLM calls and other computationally expensive subroutines. Furthermore, we explore the reuse of cosine similarities initially calculated within a dense retrieval step to retrieve the top 10 most relevant evidence sentence sets. We use these sets for semantic filtering methods based on similarity scores and create filters for particularly hard classification labels ``Not Enough Information'' and ``Conflicting Evidence/Cherrypicking'' by identifying thresholds for potentially relevant information and the semantic variance within these sets. Compared to the parallelized FEVER-8 baseline, which takes 33.88 seconds on average to process a claim according to the FEVER-8 shared task leaderboard, our non-parallelized system remains competitive in regard to AVeriTeC retrieval scores while reducing the runtime to 7.01 seconds, achieving the fastest average runtime per claim.},
+  abbr = {FEVER},
+  bibtex_show = {true},
+  html = {https://aclanthology.org/2025.fever-1.17/}
+}
+
+@inproceedings{upravitelev-etal-2025-comparing,
+  title = {Comparing {LLM}s and {BERT}-based Classifiers for Resource-Sensitive Claim Verification in Social Media},
+  author = {Upravitelev, Max and Duran-Silva, Nicolau and Woerle, Christian and Guarino, Giuseppe and Mohtaj, Salar and Yang, Jing and Solopova, Veronika and Schmitt, Vera},
+  editor = {Ghosal, Tirthankar and Mayr, Philipp and Singh, Amanpreet and Naik, Aakanksha and Rehm, Georg and Freitag, Dayne and Li, Dan and Schimmler, Sonja and {De Waard}, Anita},
+  booktitle = {Proceedings of the Fifth Workshop on Scholarly Document Processing ({SDP} 2025)},
+  month = jul,
+  year = {2025},
+  address = {Vienna, Austria},
+  publisher = {Association for Computational Linguistics},
+  url = {https://aclanthology.org/2025.sdp-1.26/},
+  doi = {10.18653/v1/2025.sdp-1.26},
+  pages = {281--287},
+  abstract = {The overwhelming volume of content being published at any given moment poses a significant challenge for the design of automated fact-checking (AFC) systems on social media, requiring an emphasized consideration of efficiency aspects. As in other fields, systems built upon LLMs have achieved good results on different AFC benchmarks. However, the application of LLMs is accompanied by high resource requirements. The energy consumption of LLMs poses a significant challenge from an ecological perspective, while remaining a bottleneck in latency-sensitive scenarios like AFC within social media. Therefore, we propose a system built upon fine-tuned smaller BERT-based models. When evaluated on the ClimateCheck dataset against decoder-only LLMs, our best fine-tuned model outperforms Phi 4 and approaches Qwen3 14B in reasoning mode --- while significantly reducing runtime per claim. Our findings demonstrate that small encoder-only models fine-tuned for specific tasks can still provide a substantive alternative to large decoder-only LLMs, especially in efficiency-concerned settings.},
+  abbr = {SDP},
+  bibtex_show = {true},
+  html = {https://aclanthology.org/2025.sdp-1.26/}
+}
+
+@inproceedings{anikina-etal-2025-dfkinit2b,
+  title = {{dfkinit2b} at {CheckThat}! 2025: Leveraging {LLM}s and Ensemble of Methods for Multilingual Claim Normalization},
+  author = {Anikina, Tatiana and Vykopal, Ivan and Kula, Sebastian and Chikkala, Ravi Kiran and Skachkova, Natalia and Yang, Jing and Solopova, Veronika and Schmitt, Vera and Ostermann, Simon},
+  booktitle = {Working Notes of the Conference and Labs of the Evaluation Forum ({CLEF} 2025)},
+  year = {2025},
+  month = sep,
+  address = {Madrid, Spain},
+  publisher = {CEUR-WS.org},
+  pages = {804--825},
+  url = {https://ceur-ws.org/Vol-4038/paper_62.pdf},
+  abstract = {The rapid spread of misinformation on social media across languages presents a major challenge for fact-checking efforts. Social media posts are often noisy, informal, and unstructured, with irrelevant content, making it difficult to extract concise, verifiable claims. To address this, the CLEF 2025 CheckThat! Shared Task on Multilingual Claim Extraction and Normalization focuses on transforming social media posts into normalized claims, short, clear and check-worthy statements that capture the essence of potentially misleading content. In this paper, we investigate several approaches to this task, including parameter-efficient fine-tuning, prompting large language models (LLMs), and an ensemble of methods. We evaluate our approaches in two settings: monolingual, where we are provided with training and validation data, and the zero-shot setting, where no training data is available for the target language. Our approaches achieved first place in 6 out of 13 languages in the monolingual setting and ranked second or third in the remaining languages. In the zero-shot setting, we achieved the highest performance across all seven languages, demonstrating strong generalization to unseen languages.},
+  abbr = {CLEF},
+  bibtex_show = {true},
+  html = {https://ceur-ws.org/Vol-4038/paper_62.pdf}
+}
+
