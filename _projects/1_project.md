@@ -2,7 +2,6 @@
 layout: page
 title: FakeXplain
 description: Development of transparent and meaningful explanations in the context of disinformation detection
-img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
