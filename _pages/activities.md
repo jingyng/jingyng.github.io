@@ -26,7 +26,8 @@ nav_order: 6
 
 **Reviewing**
 
-- Conferences: ACL Rolling Review (May 2026, August 2026), ACL 2025, EMNLP 2025, EACL 2025, YNLG 2025 and 2026.
+- Conferences: ACL Rolling Review (May 2026, August 2026), ACL 2025, EMNLP 2025, EACL 2025.
+- Workshops: BlackboxNLP 2026, YNLG 2025 and 2026.
 - Journals: IEEE Transactions on Information Forensics and Security, Springer Machine Learning, Springer Pattern Recognition Letters, IEEE Security & Privacy.
 
 ### Memberships
