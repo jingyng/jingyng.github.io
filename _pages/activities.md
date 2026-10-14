@@ -2,7 +2,7 @@
 layout: page
 permalink: /activities/
 title: activities
-description: Talks, outreach, academic service, and memberships
+description: Talks, outreach, and academic service
 nav: true
 nav_order: 6
 ---
@@ -29,9 +29,3 @@ nav_order: 6
 - Conferences: ACL Rolling Review (May 2026, August 2026), ACL 2025, EMNLP 2025, EACL 2025.
 - Workshops: BlackboxNLP 2026, YNLG 2025 and 2026.
 - Journals: IEEE Transactions on Information Forensics and Security, Springer Machine Learning, Springer Pattern Recognition Letters, IEEE Security & Privacy.
-
-### Memberships
-
-- Guest Researcher, Johannes Gutenberg University of Mainz, Mainz
-- Guest Researcher, German Research Center for Artificial Intelligence (DFKI), Berlin
-- Member and Mentor, [AI Grid](https://www.ai-grid.de), national network for AI researchers in Germany
