@@ -14,7 +14,7 @@ nav_order: 5
 ### BSc/MSc students
 
 - **Jamy Hu**, Master's thesis, title: *Subgroup discovery with concept-based explanations: Fairness exploration in medical admissions*
-- **Zhulin Xuan**, Bachelor's thesis, title: *Investigating Users' Ability to Detect Errors in LLM-generated Explanations: The Effects of Explanation Format and Error Type*
+- **LingXuan Zhu**, Bachelor's thesis, title: *Investigating Users' Ability to Detect Errors in LLM-generated Explanations: The Effects of Explanation Format and Error Type*
 
 ### Finished
 
