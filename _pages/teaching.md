@@ -11,6 +11,8 @@ nav_order: 4
 
 2026-10 – 2027-02 : Advanced Study Projects @ TU Berlin. Coordinator and project supervisor. Topic: Figures and tables as a paper summary: extraction and decontextualization of scientific figures and tables from PDFs.
 
+2026-09-28 – 2026-10-02 : Invited course @ [UTN Computational Linguistics Fall School 2026](https://www.utn.de/en/departments/department-computer-science-artificial-intelligence/nlu/computational-linguistics-fall-school-2026/). Course: Explainable NLP: Foundations and Practice (with Veronika Solopova).
+
 ### Summer Semester 2026
 
 2026-04 – 2026-09 : Advanced Study Projects @ TU Berlin. Coordinator and project supervisor. Topic: LLM structured information extraction for research on NLP papers.
