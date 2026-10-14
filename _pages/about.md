@@ -21,9 +21,11 @@ I am a post-doc researcher at the [XplaiNLP group](https://www.tu.berlin/en/qu/r
 
 I completed my Bachelor’s degree in Information and Computing Science at the Hubei University of Technology in China, followed by a Master’s degree in Computer Science at Hunan University, China. My Master’s dissertation is related to identifying 3D printed objects and printers with Digital Forensics and Machine Learning. After obtaining my Master’s degree in 2019, I pursued a PhD at the [RECOD.ai](RECOD.ai) lab from the University of Campinas in Brazil, under the supervision of Prof. [Anderson Rocha](https://www.ic.unicamp.br/~rocha/). During 2022-2023, I did a research internship at the [Ubiquitous Knowledge Processing (UKP) lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) in TU Darmstadt. My PhD thesis was related to improving fact-checking efficiency and explainability with few-shot learning and large language models. 
 
-My research interests are:
+I work on natural language processing with a focus on making large language models reliable, fair, and factually grounded. A consistent thread in my research is the question of whether automated systems can be trusted: I have studied this through explainable fact-checking, out-of-distribution evaluation of model rationales, large-scale analysis of evaluation practices, and behavioral studies of persona prompting and social bias. My current interest lies in how factual knowledge and the values and opinions learned from training data interact inside models, and in evaluation and interpretability methods that make model behavior transparent, controllable, and aware of the values and cultural perspectives it encodes.
 
-- Natural language explanation generation
-- Synthetic text evaluation
-- Human preference learning on text generation
-- Applications and social impacts of large language models
+My current research interests are:
+
+- Interplay of factual knowledge and learned values and opinions in LLMs
+- Evaluation of LLMs and natural language generation
+- Interpretability and explainability
+- Social bias, fairness, and cultural perspectives in LLMs
