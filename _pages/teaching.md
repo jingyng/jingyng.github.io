@@ -7,6 +7,10 @@ nav: true
 nav_order: 4
 ---
 
+### Winter Semester 2026/27
+
+2026-10 – 2027-02 : Advanced Study Projects @ TU Berlin. Coordinator and project supervisor. Topic: Figures and tables as a paper summary: extraction and decontextualization of scientific figures and tables from PDFs.
+
 ### Summer Semester 2026
 
 2026-04 – 2026-09 : Advanced Study Projects @ TU Berlin. Coordinator and project supervisor. Topic: LLM structured information extraction for research on NLP papers.
