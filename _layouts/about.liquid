@@ -46,6 +46,12 @@ layout: default
         <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
       </h2>
       {% include news.liquid limit=true %}
+      {% assign news_size = site.news | size %}
+      {% if site.announcements.limit and news_size > site.announcements.limit %}
+        <p class="text-right">
+          <a href="{{ '/news/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">see all news →</a>
+        </p>
+      {% endif %}
     {% endif %}
 
     <!-- Latest posts -->
