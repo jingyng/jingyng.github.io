@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>MAR 2.054, </p>
+    <p>MAR 2.055, </p>
     <p>Marchstrasse 23</p>
     <p>Berlin, Germany</p>
 
